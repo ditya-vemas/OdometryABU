@@ -3,7 +3,7 @@
  * Parameter angle harus diset sesuai penempatan rotary encoder pada robot
 */
 
-#include "Odometry.h"
+#include "OdometryABU.h"
 
 Odometry::Odometry(int dia, int resA, int resB, int resC) {
   wheelDia = dia;
